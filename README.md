@@ -8,7 +8,7 @@ ADHdo! helps you understand what is blocking you, reduces the mental friction re
 
 ## 🌟 Core Features
 
-1. **My Day**: Welcoming dashboard with optional energy check-in (Running on empty, A little low, Doing okay, Ready to go), real interactive task management (add, edit, toggle, priority, essential/optional markers), and visual progress tracking.
+1. **My_ Day**: Welcoming dashboard with optional energy check-in (Running on empty, A little low, Doing okay, Ready to go), real interactive task management (add, edit, toggle, priority, essential/optional markers), and visual progress tracking.
 2. **Unstuck Mode (Signature Feature)**: Isolate one microscopic 2-minute action tailored to your specific blocker:
    - *I can't get started.*
    - *Everything feels overwhelming.*
