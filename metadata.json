@@ -1,0 +1,6 @@
+{
+  "name": "ADHdo!",
+  "description": "It's ADH-doable! A supportive, playful productivity companion that makes overwhelming tasks feel manageable and helps you take the next small step.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
